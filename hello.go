@@ -11,6 +11,11 @@ type people struct {
 
 func main()  {
 	//fmt.Println("Hello world !")
-	p1:=people{"Praveen","Kumar"}
-	fmt.Println(p1)
+	p1:=people{"Praveen","Kuvvarapu"}
+	p2:=people{"Vasu","Muly"}
+	fmt.Println(p1.fname +" and "+p2.fname+ " are friends." )
+<<<<<<< HEAD
+=======
+	fmt.Println(p1.fname + " take lessons from "+p2.fname)
+>>>>>>> brhello
 }
