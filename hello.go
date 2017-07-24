@@ -14,4 +14,8 @@ func main()  {
 	p1:=people{"Praveen","Kuvvarapu"}
 	p2:=people{"Vasu","Muly"}
 	fmt.Println(p1.fname +" and "+p2.fname+ " are friends." )
+<<<<<<< HEAD
+=======
+	fmt.Println(p1.fname + " take lessons from "+p2.fname)
+>>>>>>> brhello
 }
