@@ -13,4 +13,5 @@ func main()  {
 	p2:=people{"Vasu","Muly"}
 	fmt.Println(p1.fname +" and "+p2.fname+ " are friends." )
 	fmt.Println(p2.fname + " trains "+p2.fname+" learn go.")
+	fmt.Println(p2.fname+" says hi to a\ "+p1.fname)"sp\u
 }
