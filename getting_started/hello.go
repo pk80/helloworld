@@ -6,7 +6,7 @@ type people struct {
 	fname string
 	lname string
 }
-git 
+
 func main()  {
 	//fmt.Println("Hello world !")
 	p1:=people{"Praveen","Kuvvarapu"}
